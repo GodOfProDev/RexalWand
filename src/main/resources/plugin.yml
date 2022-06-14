@@ -1,0 +1,6 @@
+name: RexalWand
+version: '${project.version}'
+main: me.godofpro.rexalwand.RexalWand
+api-version: 1.17
+authors: [ GodOfPro ]
+description: A Cool Wand
